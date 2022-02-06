@@ -1,0 +1,2 @@
+[workspace]
+members = ["async-std-futures", "diy-futures", "random-seed-future", "tokio-futures"]
